@@ -1,86 +1,42 @@
-<h1 align="center">Hey Everyone 👋, I'm Vaishnavi</h1>
+# Vaishnavi Akki
 
-<h3 align="center">Cloud & DevOps Engineer • Automation Enthusiast • AI Innovator</h3>
+**Senior Cloud & DevOps Engineer** · Azure Platform · SRE · Cloud Security · Denver, Colorado
 
-<p align="center">
-  <a href="https://github.com/vaishnavia4">
-    <img src="https://img.shields.io/github/followers/vaishnavia4?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/vaishnavia24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+I build secure, automated cloud platforms. For the past 6+ years I've worked across Azure, AWS and Google Cloud — today I own the end-to-end Azure platform behind two mortgage-technology products used by enterprise lenders: architecture, hub-and-spoke networking, CI/CD, identity, monitoring and production support. I like removing toil with infrastructure as code, self-service automation and AI-assisted engineering.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+[Portfolio](https://vaishnavia4.github.io/Vaishnavi-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/vaishnavia24) · [Resume (PDF)](https://vaishnavia4.github.io/Vaishnavi-Portfolio/Vaishnavi_Akki_Resume.pdf) · [avaishnavi2404@gmail.com](mailto:avaishnavi2404@gmail.com)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vaishnavia4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## Highlights
 
-- 🌱 Currently working on **Azure Infrastructure Automation with Bicep**
-- 🤖 Exploring **Azure OpenAI + AI Search + Teams Chatbots**
-- 🔧 Maintaining multiple **DevOps pipelines and ARM/Bicep deployments**
-- 📫 Reach me at: **vaishnavidevops@gmail.com**
-- 🌏 Personal Site: [vaishnavia4.github.io](https://vaishnavia4.github.io)
+- **30–40%** Azure cost reduction through right-sizing and cleanup automation
+- Customer environment provisioning cut **from over a week to minutes** with a self-service platform
+- Deployments cut **from 2–3 days to under a day** by introducing modular Bicep
+- Led the technical implementation of **ISO 27001** certification; primary incident responder with 24×7 on-call
+- CI/CD for **20+ enterprise applications**; on-prem to Google Cloud migration that cut operating cost **30%**
 
----
+## Featured projects
 
-<h3 align="left">🔗 Connect with me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vaishnavia24" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:vaishnavidevops@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" height="30" width="40" />
-  </a>
-</p>
+| Project | What it is |
+| --- | --- |
+| [**job-hunter**](https://github.com/vaishnavia4/job-hunter) | Claude Code plugin with a Python MCP server that searches company job boards, tailors truthful resumes and verifies application forms against a learned answer bank. |
+| [**azure-landing-zone-bicep**](https://github.com/vaishnavia4/azure-landing-zone-bicep) | Private-by-default Azure hub-and-spoke landing zone in modular Bicep, deployed by GitHub Actions with OIDC. |
 
----
+## Tech
 
-<h3 align="left">🛠️ Tools & Technologies</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</p>
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
----
+## Certifications
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavia4&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavia4&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
----
-
-### 🔥 GitHub Contribution Streak
-
-![GitHub Streak Badge](https://github-readme-streak-stats.herokuapp.com?user=vaishnavia4&theme=vue&hide_border=true)
-
----
-
-### 📌 Top Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=vaishnavia4&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-
-### 💬 About Me & Collaborations
-
-- 📣 Always open to **DevOps, Bicep, or AI chatbot collabs**
-- 👩‍🏫 Available for **talks, mentoring, and internal tech bootcamps**
-- 🧠 Focused on **secure infra, and automation**
-
-> *“I believe automation is power, and DevOps is the key to scalable success.”*
-
----
+Microsoft Azure Administrator Associate (AZ-104) · AWS Solutions Architect – Associate · Google Cloud Professional Cloud Architect · AWS Cloud Practitioner · Microsoft Power Platform Functional Consultant Associate · Azure Solutions Architect Expert (AZ-305) — in progress
