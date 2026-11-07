@@ -21,6 +21,8 @@ I build secure, automated cloud platforms. For the past 6+ years I've worked acr
 | Project | What it is |
 | --- | --- |
 | [**job-hunter**](https://github.com/vaishnavia4/job-hunter) | Claude Code plugin with a Python MCP server that searches company job boards, tailors truthful resumes and verifies application forms against a learned answer bank. |
+| [**azure-tenant-provisioner**](https://github.com/vaishnavia4/azure-tenant-provisioner) | Self-service tenant provisioning: approval-gated API, live demo admin portal, audit log, environment health and Bicep for shared and dedicated tenants. [Live demo](https://vaishnavia4.github.io/azure-tenant-provisioner/). |
+| [**chatops-rag-teams-bot**](https://github.com/vaishnavia4/chatops-rag-teams-bot) | RAG Teams assistant over runbooks: Azure AI Search + Azure OpenAI with citations, keyless managed identity, Bicep, offline mock mode. |
 | [**entra-rbac-as-code**](https://github.com/vaishnavia4/entra-rbac-as-code) | Access control as code for Entra ID and Azure RBAC: YAML source of truth, reviewed plan/apply with OIDC and approvals, drift detection and a quarterly ISO 27001 access review. |
 | [**zero-trust-azure-baseline**](https://github.com/vaishnavia4/zero-trust-azure-baseline) | Zero Trust baseline for Azure and Entra ID as code: Conditional Access (report-only first), Azure Policy initiative and secure-by-default Bicep modules. |
 | [**ado-pipeline-templates**](https://github.com/vaishnavia4/ado-pipeline-templates) | Reusable Azure DevOps YAML templates: build, IaC, containers, Playwright, security scans and approval gates with workload identity federation. |
