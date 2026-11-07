@@ -2,7 +2,7 @@
 
 **Senior Cloud & DevOps Engineer** · Azure Platform · SRE · Cloud Security · Denver, Colorado
 
-I build secure, automated cloud platforms. For the past 6+ years I've worked across Azure, AWS and Google Cloud — today I own the end-to-end Azure platform behind two mortgage-technology products used by enterprise lenders: architecture, hub-and-spoke networking, CI/CD, identity, monitoring and production support. I like removing toil with infrastructure as code, self-service automation and AI-assisted engineering.
+I build secure, automated cloud platforms. For the past 6+ years I've worked across Azure, AWS and Google Cloud. Today I own the end-to-end Azure platform behind two mortgage-technology products used by enterprise lenders: architecture, hub-and-spoke networking, CI/CD, identity, monitoring and production support. I like removing toil with infrastructure as code, self-service automation and AI-assisted engineering.
 
 [Portfolio](https://vaishnavia4.github.io/Vaishnavi-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/vaishnavia24) · [Resume (PDF)](https://vaishnavia4.github.io/Vaishnavi-Portfolio/Vaishnavi_Akki_Resume.pdf) · [avaishnavi2404@gmail.com](mailto:avaishnavi2404@gmail.com)
 
@@ -39,4 +39,4 @@ I build secure, automated cloud platforms. For the past 6+ years I've worked acr
 
 ## Certifications
 
-Microsoft Azure Administrator Associate (AZ-104) · AWS Solutions Architect – Associate · Google Cloud Professional Cloud Architect · AWS Cloud Practitioner · Microsoft Power Platform Functional Consultant Associate · Azure Solutions Architect Expert (AZ-305) — in progress
+Microsoft Azure Administrator Associate (AZ-104) · AWS Solutions Architect – Associate · Google Cloud Professional Cloud Architect · AWS Cloud Practitioner · Microsoft Power Platform Functional Consultant Associate · Azure Solutions Architect Expert (AZ-305), in progress
