@@ -12,7 +12,7 @@ I build secure, automated cloud platforms. For the past 6+ years I've worked acr
 - Customer environment provisioning cut **from over a week to minutes** with a self-service platform
 - Deployments cut **from 2–3 days to under a day** by introducing modular Bicep
 - Led a fintech startup from gap assessment to **ISO/IEC 27001:2022 certification in about 9 months** (all 93 Annex A controls); primary incident responder with 24×7 on-call
-- Designed a **Zero Trust architecture** across two Azure tenants: Conditional Access (MFA, legacy auth blocked, risk-based remediation), 66 private endpoints, forced-tunnel egress through Azure Firewall and a WAF entry point
+- Designed a **Zero Trust architecture** across two Azure tenants: 190 private endpoints, forced-tunnel egress through Azure Firewall, WAF in Prevention mode as the only public entry point, and Conditional Access (MFA, legacy auth blocked, risk-based remediation)
 - Authored **~1,900 commits** across 5 platform repositories (Bicep infrastructure, shared modules, an internal admin app, access control, release tooling) since mid-2025
 - CI/CD for **20+ enterprise applications**; on-prem to Google Cloud migration that cut operating cost **30%**
 
