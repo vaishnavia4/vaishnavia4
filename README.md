@@ -22,6 +22,9 @@ I build secure, automated cloud platforms. For the past 6+ years I've worked acr
 | --- | --- |
 | [**job-hunter**](https://github.com/vaishnavia4/job-hunter) | Claude Code plugin with a Python MCP server that searches company job boards, tailors truthful resumes and verifies application forms against a learned answer bank. |
 | [**entra-rbac-as-code**](https://github.com/vaishnavia4/entra-rbac-as-code) | Access control as code for Entra ID and Azure RBAC: YAML source of truth, reviewed plan/apply with OIDC and approvals, drift detection and a quarterly ISO 27001 access review. |
+| [**zero-trust-azure-baseline**](https://github.com/vaishnavia4/zero-trust-azure-baseline) | Zero Trust baseline for Azure and Entra ID as code: Conditional Access (report-only first), Azure Policy initiative and secure-by-default Bicep modules. |
+| [**ado-pipeline-templates**](https://github.com/vaishnavia4/ado-pipeline-templates) | Reusable Azure DevOps YAML templates: build, IaC, containers, Playwright, security scans and approval gates with workload identity federation. |
+| [**iso27001-evidence-kit**](https://github.com/vaishnavia4/iso27001-evidence-kit) | ISO/IEC 27001:2022 evidence kit: SoA and risk register templates, evidence naming and a read-only Azure evidence exporter. |
 | [**azure-landing-zone-bicep**](https://github.com/vaishnavia4/azure-landing-zone-bicep) | Private-by-default Azure hub-and-spoke landing zone in modular Bicep, deployed by GitHub Actions with OIDC. |
 | [**plant-leaf-disease-detection**](https://github.com/vaishnavia4/plant-leaf-disease-detection) | Where my ML interest started: OpenCV segmentation plus a Keras CNN that detects potato leaf diseases (final-year project). |
 
