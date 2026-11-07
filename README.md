@@ -11,7 +11,9 @@ I build secure, automated cloud platforms. For the past 6+ years I've worked acr
 - **30–40%** Azure cost reduction through right-sizing and cleanup automation
 - Customer environment provisioning cut **from over a week to minutes** with a self-service platform
 - Deployments cut **from 2–3 days to under a day** by introducing modular Bicep
-- Led the technical implementation of **ISO 27001** certification; primary incident responder with 24×7 on-call
+- Led a fintech startup from gap assessment to **ISO/IEC 27001:2022 certification in about 9 months** (all 93 Annex A controls); primary incident responder with 24×7 on-call
+- Designed a **Zero Trust architecture** across two Azure tenants: Conditional Access (MFA, legacy auth blocked, risk-based remediation), 66 private endpoints, forced-tunnel egress through Azure Firewall and a WAF entry point
+- Authored **~1,900 commits** across 5 platform repositories (Bicep infrastructure, shared modules, an internal admin app, access control, release tooling) since mid-2025
 - CI/CD for **20+ enterprise applications**; on-prem to Google Cloud migration that cut operating cost **30%**
 
 ## Featured projects
@@ -19,7 +21,11 @@ I build secure, automated cloud platforms. For the past 6+ years I've worked acr
 | Project | What it is |
 | --- | --- |
 | [**job-hunter**](https://github.com/vaishnavia4/job-hunter) | Claude Code plugin with a Python MCP server that searches company job boards, tailors truthful resumes and verifies application forms against a learned answer bank. |
+| [**entra-rbac-as-code**](https://github.com/vaishnavia4/entra-rbac-as-code) | Access control as code for Entra ID and Azure RBAC: YAML source of truth, reviewed plan/apply with OIDC and approvals, drift detection and a quarterly ISO 27001 access review. |
 | [**azure-landing-zone-bicep**](https://github.com/vaishnavia4/azure-landing-zone-bicep) | Private-by-default Azure hub-and-spoke landing zone in modular Bicep, deployed by GitHub Actions with OIDC. |
+| [**plant-leaf-disease-detection**](https://github.com/vaishnavia4/plant-leaf-disease-detection) | Where my ML interest started: OpenCV segmentation plus a Keras CNN that detects potato leaf diseases (final-year project). |
+
+More of my work, described without any employer code or data, is in the [case studies on my portfolio](https://vaishnavia4.github.io/Vaishnavi-Portfolio/#case-studies): ISO 27001, Zero Trust, self-service tenant provisioning, access as code and a RAG ChatOps assistant for Teams.
 
 ## Tech
 
